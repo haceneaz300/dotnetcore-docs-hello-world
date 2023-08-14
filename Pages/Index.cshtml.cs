@@ -21,6 +21,6 @@ public class IndexModel : PageModel
     }
 }
 <div class="jumbotron">
-    <h1>.NET 💜 Azure</h1>
+    <h1>.NET bla Azure</h1>
     <p class="lead">Example .NET app to Azure App Service.</p>
 </div>
